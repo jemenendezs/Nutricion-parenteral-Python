@@ -4,7 +4,6 @@ Programa para calcular los volúmenes y velocidad de infusión de las diferentes
 Este código realiza cálculos para determinar los volúmenes y las velocidades de infusión necesarias para una nutrición parenteral basada en los requerimientos calóricos y de proteínas de un paciente. Calcula y muestra cómo se deben preparar y administrar soluciones de dextrosa, lípidos y aminoácidos para satisfacer las necesidades nutricionales diarias de un paciente basado en su peso y requerimientos específicos. Aquí está una descripción detallada de lo que hace:
 
 1. **Importación y Definiciones Iniciales**:
-   - **Comentarios**: Incluye comentarios sobre los derechos de autor y la licencia del código.
    - **Definición de la Función `calcular_nutricion_parenteral`**: La función toma tres parámetros:
      - `peso`: Peso del paciente en kilogramos.
      - `requerimiento_calorico`: Requerimiento calórico diario en kcal/kg/día.
